@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/makenova
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://makenova.com
+  * I am makenova (https://keybase.io/makenova) on keybase.
+  * I have a public key ASCgKcCwBtwVxG5pJbfswDV5rTcjJq4AK2teuyJaHo1IPwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012a5abcbead41107cd16038ff96dc9ade5bba8d298bcc3c4e55d395635f0da69d0a",
+            "host": "keybase.io",
+            "kid": "0120a029c0b006dc15c46e6925b7ecc03579ad372326ae002b6b5ebb225a1e8d483f0a",
+            "uid": "571924280553e0578e1e83c8d76ee019",
+            "username": "makenova"
+        },
+        "service": {
+            "hostname": "makenova.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486786458,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486786445,
+        "hash": "e770583f922d75fd2eafcad25abcb31b4380f1a291c6b5be6756e2236f5d8880eaa7f6b0bad0cb179885bfa6e4028f1f1056c474775fd1191d9359b728efc459",
+        "seqno": 875178
+    },
+    "prev": "daaaf1ad2d23d86d81284343defb88b9bb620a2e19fc81b5d60d8aa60ae4b134",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoCnAsAbcFcRuaSW37MA1ea03IyauACtrXrsiWh6NSD8Kp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMmE1YWJjYmVhZDQxMTA3Y2QxNjAzOGZmOTZkYzlhZGU1YmJhOGQyOThiY2MzYzRlNTVkMzk1NjM1ZjBkYTY5ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTAyOWMwYjAwNmRjMTVjNDZlNjkyNWI3ZWNjMDM1NzlhZDM3MjMyNmFlMDAyYjZiNWViYjIyNWExZThkNDgzZjBhIiwidWlkIjoiNTcxOTI0MjgwNTUzZTA1NzhlMWU4M2M4ZDc2ZWUwMTkiLCJ1c2VybmFtZSI6Im1ha2Vub3ZhIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtYWtlbm92YS5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4Njc4NjQ1OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg2Nzg2NDQ1LCJoYXNoIjoiZTc3MDU4M2Y5MjJkNzVmZDJlYWZjYWQyNWFiY2IzMWI0MzgwZjFhMjkxYzZiNWJlNjc1NmUyMjM2ZjVkODg4MGVhYTdmNmIwYmFkMGNiMTc5ODg1YmZhNmU0MDI4ZjFmMTA1NmM0NzQ3NzVmZDExOTFkOTM1OWI3MjhlZmM0NTkiLCJzZXFubyI6ODc1MTc4fSwicHJldiI6ImRhYWFmMWFkMmQyM2Q4NmQ4MTI4NDM0M2RlZmI4OGI5YmI2MjBhMmUxOWZjODFiNWQ2MGQ4YWE2MGFlNGIxMzQiLCJzZXFubyI6MTUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAM43NDI1kk1Sapi4HszhvLvfB7mn/XH2xvZne06APp91v1hWRr6hxvpDQCqG2Cy7jEGmUOOSjd17xaM0MOnnFCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK3xs3OhROfAPCcIcQhSLKLp5rVRoDl8UiacyfmC1NAIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/makenova
+
+==================================================================
