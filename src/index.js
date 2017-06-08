@@ -1,5 +1,8 @@
-ityped.init('.tag-line', {
-  strings: ["I'm a web developer based in Oklahoma City, OK"],
-  showCursor: false,
-  cursorChar: ""
-})
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+import registerServiceWorker from './registerServiceWorker';
+import './index.css';
+
+ReactDOM.render(<App />, document.getElementById('root'));
+registerServiceWorker();
