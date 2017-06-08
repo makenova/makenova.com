@@ -1,4 +1,22 @@
 import React, { Component } from 'react';
+import styled from 'styled-components';
+
+const Link = styled.a`
+  &:link,
+  &:visited,
+  &:active {
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+
+  &:hover {
+    color: #FFC107;
+  }
+`;
+
+const Icon = styled.i`
+  font-size: 2em;
+`;
 
 export default class MediaLink extends Component {
   render() {
@@ -9,9 +27,9 @@ export default class MediaLink extends Component {
 
     return (
         <span>
-          <a href={link}>
-            <i className={`${iconName} icon-link`}></i>
-          </a>
+          <Link href={link}>
+            <Icon className={iconName}></Icon>
+          </Link>
         </span>
     );
   }
