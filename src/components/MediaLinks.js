@@ -6,10 +6,11 @@ export default class MediaLinks extends Component {
     return (
       <div className="links">
         {
-          this.props.links.map(link => (
+          this.props.links.map((link, index) => (
               <MediaLink
                 link={link.link}
                 iconName={link.iconName}
+                key={index}
               />
             )
           )
